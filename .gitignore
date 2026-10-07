@@ -1,0 +1,10 @@
+# Cache Python
+__pycache__/
+*.py[cod]
+
+# Lingkungan virtual
+.venv/
+venv/
+
+# File sementara Microsoft Word
+~$*.docx
